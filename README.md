@@ -6,3 +6,4 @@ The Liquid Glass effect hopefully is going to be available some time after Apple
 
 Closes on event of chosing an app or ESC key.
 
+<img width="1470" alt="Screenshot 2025-06-16 at 04 15 27" src="https://github.com/user-attachments/assets/e2092b12-aba6-426f-8dfe-86452b8189a3" />
