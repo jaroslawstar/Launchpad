@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "qfileiconprovider": "cpp",
+        "filesystem": "cpp",
+        "qscreen": "cpp"
+    }
+}
